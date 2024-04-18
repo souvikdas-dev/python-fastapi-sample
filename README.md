@@ -1,1 +1,1 @@
-# python-samle-vscode-fastapi-project
+# python-vscode-fastapi-sample-project
